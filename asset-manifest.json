@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/nikstroi/static/css/main.b1073809.css",
-    "main.js": "/nikstroi/static/js/main.8316b8ae.js",
+    "main.css": "/nikstroi/static/css/main.93be098f.css",
+    "main.js": "/nikstroi/static/js/main.453f9760.js",
     "static/js/787.7a10f15b.chunk.js": "/nikstroi/static/js/787.7a10f15b.chunk.js",
     "static/media/bootstrap-icons.woff?": "/nikstroi/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
     "static/media/bootstrap-icons.woff2?": "/nikstroi/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
     "static/media/renovation-logo.jpg": "/nikstroi/static/media/renovation-logo.74573e6bf6a98d55504e.jpg",
     "index.html": "/nikstroi/index.html",
-    "main.b1073809.css.map": "/nikstroi/static/css/main.b1073809.css.map",
-    "main.8316b8ae.js.map": "/nikstroi/static/js/main.8316b8ae.js.map",
+    "main.93be098f.css.map": "/nikstroi/static/css/main.93be098f.css.map",
+    "main.453f9760.js.map": "/nikstroi/static/js/main.453f9760.js.map",
     "787.7a10f15b.chunk.js.map": "/nikstroi/static/js/787.7a10f15b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1073809.css",
-    "static/js/main.8316b8ae.js"
+    "static/css/main.93be098f.css",
+    "static/js/main.453f9760.js"
   ]
 }
